@@ -22,11 +22,11 @@
     "require": {
         "php": "^5.6|^7.0",
 
-        "sylius/archetype": "symfony_3_compatibility",
-        "sylius/attribute": "symfony_3_compatibility",
-        "sylius/association": "symfony_3_compatibility",
-        "sylius/resource": "symfony_3_compatibility",
-        "sylius/variation": "symfony_3_compatibility",
+        "sylius/archetype": "dev-symfony_3_compatibility",
+        "sylius/attribute": "dev-symfony_3_compatibility",
+        "sylius/association": "dev-symfony_3_compatibility",
+        "sylius/resource": "dev-symfony_3_compatibility",
+        "sylius/variation": "dev-symfony_3_compatibility",
         "symfony/polyfill-iconv": "~1.0"
     },
     "require-dev": {
